@@ -1,0 +1,11 @@
+{
+  "name": "Smart UAE AI Portal",
+  "description": "Multimodal AI Tourism Assistant and cultural concierge powered by Gemini, featuring real-time itinerary generation, AR landmark recognition, Emirati dialect guidance, and UAE Centennial 2071 sustainability metrics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
